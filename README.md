@@ -15,3 +15,5 @@
 1. Dodanie ErrorBoundaries i komponentu Fallbackowego do obsługi errorów.
 
 2. Dopisanie lokalnych mocków do msw aby zapewnić łatwiejszy local development
+
+3. Dopisanie testów dla BrowsePage i DetailsPage
